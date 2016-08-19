@@ -1,0 +1,9 @@
+{
+  "name": "mailcourier",
+  "description": "Small mailing service collect-then-forward emails via IMAP+SMTP, which can be deployed to Heroku.",
+  "logo": "",
+  "image": "heroku/python",
+  "repository": "",
+  "keywords": ["python", "mailcourier", "mail" ],
+  // "addons": [ "heroku-postgresql" ]
+}
